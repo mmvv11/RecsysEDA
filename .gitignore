@@ -1,0 +1,7 @@
+# 데이터
+/test/
+/train/
+
+# 플젝 설정
+.idea
+.ipynb_checkpoints
